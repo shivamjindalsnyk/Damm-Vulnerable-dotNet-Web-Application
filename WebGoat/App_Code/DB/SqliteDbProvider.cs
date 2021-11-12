@@ -555,7 +555,7 @@ namespace OWASP.WebGoat.NET.App_Code.DB
                     SqliteCommand cmd = new SqliteCommand(sql, connection);
                     output = (string)cmd.ExecuteScalar();
                 }
-                
+                // yrdyr
             }
             catch (Exception ex)
             {
