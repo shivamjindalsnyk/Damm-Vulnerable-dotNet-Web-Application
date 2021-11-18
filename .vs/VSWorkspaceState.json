@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebGoat",
+    "\\WebGoat\\App_Code",
+    "\\WebGoat\\App_Code\\DB"
   ],
-  "SelectedNode": "\\WebGoat.NET.sln (WebGoat.NET.sln)",
+  "SelectedNode": "\\WebGoat\\App_Code\\DB\\SqliteDbProvider.cs",
   "PreviewInSolutionExplorer": false
 }
